@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hi, I'm a Software Engineer , MSc in Computer Science from MIU! 
+👋 I'm a Software Engineer , MSc in Computer Science from MIU! 
 
 🌱 I'm currently learning and expermenting on AI and ML 
 
