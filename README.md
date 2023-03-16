@@ -5,7 +5,7 @@
 
 👯 I’m interested on sharing my skill and looking to collaborate on Java, JS. 
 
-💼 I work as a Sr. Software Engineer 
+💼 I work as a Software Engineer 
 
 📫 You can reach me at java.features@gmail.com
 
