@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning and expermenting on AI and ML 
 
-👯 I’m interested on sharing my skill and looking to collaborate on Java, JS. 
+👯 I’m interested on sharing my skill and looking to collaborate on Java/J2EE, JS. 
 
 💼 I work as a Software Engineer 
 
