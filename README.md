@@ -2,7 +2,7 @@
 
 I'm a Software Engineer , MSc in Computer Science from MIU.
 
-🌱 I'm currently learning and expermenting on AI and ML 
+🌱 I'm currently researching and expermenting on AI and ML 
 
 👯 I’m interested on sharing my skill and looking to collaborate on Java/J2EE, JS. 
 
